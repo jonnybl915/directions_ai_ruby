@@ -7,32 +7,19 @@ class Drunkard
     @position_y = 0
     @current_direction = 'north'
   end
-  # def move_and_turn(directions_string)
-  #   x = directions_string.upcase
-  #   @directions_array = x.split(',') #[R, F, L, L, F]
-  #
-  #   @directions_array.each do |letter|
-  #         if letter == 'F'
-  #           move_forward
-  #         else
-  #           turn_left_or_right(letter)
-  #         end
-  #       end
-  # end
-  # # def accept_directions(directions_string)
-  # #   x = directions_string.upcase
-  # #   @direction_array = x.split(',') #[R, F, L, L, F]
-  # # end
-  # # def self.perform_directions(directions_array, drunkard)
-  # #   directions_array.each do |letter|
-  # #     if letter == 'F'
-  # #       drunkard.move_forward
-  # #     else
-  # #       drunkard.turn_left_or_right(letter)
-  # #     end
-  # #   end
-  # # end
+  def move_and_turn(directions_string)
+    x = directions_string.upcase
+    @directions_array = x.chars #[R, F, L, L, F]
 
+    @directions_array.each do |letter|
+          if letter == 'F'
+            move_forward
+          else
+            turn_left_or_right(letter)
+          end
+        end
+  end
+  
   def move_forward
     if @current_direction == 'north'
       @position_y += 1

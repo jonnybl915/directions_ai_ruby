@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fdc2010b-3802-43cd-bb12-2eb5ba149242" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DirectionalAI.iml" afterPath="$PROJECT_DIR$/.idea/DirectionalAI.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Drunkard.rb" afterPath="$PROJECT_DIR$/Drunkard.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drunkard_spec.rb" afterPath="$PROJECT_DIR$/drunkard_spec.rb" />
     </list>
@@ -15,10 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DirectionalAI@Run_spec__drunkard_spec___DirectionalAI.coverage" NAME="Run spec 'drunkard_spec': DirectionalAI Coverage Results" MODIFIED="1484686117387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
+    <SUITE FILE_PATH="coverage/DirectionalAI@Run_spec__drunkard_spec___DirectionalAI.coverage" NAME="Run spec 'drunkard_spec': DirectionalAI Coverage Results" MODIFIED="1484686567660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
+    <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard.coverage" NAME="Drunkard Coverage Results" MODIFIED="1484686350244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
+    <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard_can_move_a_number_of_spaces_based_on_a_direction_string__DirectionalAI.coverage" NAME="Drunkard can move a number of spaces based on a direction string: DirectionalAI Coverage Results" MODIFIED="1484686539732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
     <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard_can_accept_multiple_turns_and_moves_at_a_time__DirectionalAI.coverage" NAME="Drunkard can accept multiple turns and moves at a time: DirectionalAI Coverage Results" MODIFIED="1484683857179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
     <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard__DirectionalAI.coverage" NAME="Drunkard: DirectionalAI Coverage Results" MODIFIED="1484685612259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
-    <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard_can_move_forward_one_space__change_direction__right___and_move_forward_one_more_space__DirectionalAI.coverage" NAME="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI Coverage Results" MODIFIED="1484686080197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
+    <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard_can_move_forward_one_space__change_direction__right___and_move_forward_one_more_space__DirectionalAI.coverage" NAME="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI Coverage Results" MODIFIED="1484686555252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -31,8 +32,8 @@
           <file leaf-file-name="Drunkard.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Drunkard.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="441">
-                  <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+                <state relative-caret-position="270">
+                  <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
                   <folding />
                 </state>
               </provider>
@@ -45,8 +46,8 @@
           <file leaf-file-name="drunkard_spec.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/drunkard_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+                <state relative-caret-position="441">
+                  <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -63,8 +64,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Drunkard.rb" />
         <option value="$PROJECT_DIR$/drunkard_spec.rb" />
+        <option value="$PROJECT_DIR$/Drunkard.rb" />
       </list>
     </option>
   </component>
@@ -156,39 +157,6 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Drunkard can accept multiple turns and moves at a time: DirectionalAI" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="DirectionalAI" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/drunkard_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Drunkard can accept multiple turns and moves at a time" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="Drunkard: DirectionalAI" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="DirectionalAI" />
@@ -245,6 +213,58 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Drunkard can move forward one space, change direction (right), and move forward one more space" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Drunkard" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="DirectionalAI" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Drunkard.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Drunkard can move a number of spaces based on a direction string: DirectionalAI" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="DirectionalAI" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/drunkard_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Drunkard can move a number of spaces based on a direction string" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -391,18 +411,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'drunkard_spec': DirectionalAI" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.Drunkard can accept multiple turns and moves at a time: DirectionalAI" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.Drunkard: DirectionalAI" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.Drunkard: DirectionalAI" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.Drunkard" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Drunkard can move a number of spaces based on a direction string: DirectionalAI" />
     </list>
     <recent_temporary>
-      <list size="4">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'drunkard_spec': DirectionalAI" />
         <item index="1" class="java.lang.String" itemvalue="RSpec.Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Drunkard: DirectionalAI" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.Drunkard can accept multiple turns and moves at a time: DirectionalAI" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Drunkard can move a number of spaces based on a direction string: DirectionalAI" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.Drunkard" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.Drunkard: DirectionalAI" />
       </list>
     </recent_temporary>
   </component>
@@ -418,33 +440,27 @@
       <updated>1484670128206</updated>
       <workItem from="1484670129354" duration="83000" />
       <workItem from="1484679478261" duration="910000" />
-      <workItem from="1484680524888" duration="5594000" />
+      <workItem from="1484680524888" duration="6017000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 44m 56s.xml">
+    <history-entry file="Drunkard_can_move_a_number_of_spaces_based_on_a_direction_string__DirectionalAI - 2017.01.17 at 15h 53m 34s.xml">
+      <configuration name="Drunkard can move a number of spaces based on a direction string: DirectionalAI" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Drunkard_can_move_a_number_of_spaces_based_on_a_direction_string__DirectionalAI - 2017.01.17 at 15h 54m 59s.xml">
+      <configuration name="Drunkard can move a number of spaces based on a direction string: DirectionalAI" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Drunkard_can_move_a_number_of_spaces_based_on_a_direction_string__DirectionalAI - 2017.01.17 at 15h 55m 30s.xml">
+      <configuration name="Drunkard can move a number of spaces based on a direction string: DirectionalAI" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Drunkard_can_move_a_number_of_spaces_based_on_a_direction_string__DirectionalAI - 2017.01.17 at 15h 55m 39s.xml">
+      <configuration name="Drunkard can move a number of spaces based on a direction string: DirectionalAI" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 52m 41s.xml">
       <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 45m 10s.xml">
-      <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 46m 14s.xml">
-      <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 46m 21s.xml">
-      <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 47m 43s.xml">
-      <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 47m 47s.xml">
-      <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 47m 57s.xml">
-      <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 48m 00s.xml">
+    <history-entry file="Drunkard_can_move_forward_one_space,_change_direction_(right),_and_move_forward_one_more_space__DirectionalAI - 2017.01.17 at 15h 55m 55s.xml">
       <configuration name="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec_'drunkard_spec'__DirectionalAI - 2017.01.17 at 15h 48m 26s.xml">
@@ -453,20 +469,26 @@
     <history-entry file="Run_spec_'drunkard_spec'__DirectionalAI - 2017.01.17 at 15h 48m 37s.xml">
       <configuration name="Run spec 'drunkard_spec': DirectionalAI" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_spec_'drunkard_spec'__DirectionalAI - 2017.01.17 at 15h 51m 52s.xml">
+      <configuration name="Run spec 'drunkard_spec': DirectionalAI" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'drunkard_spec'__DirectionalAI - 2017.01.17 at 15h 56m 07s.xml">
+      <configuration name="Run spec 'drunkard_spec': DirectionalAI" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6587000" />
+    <option name="totallyTimeSpent" value="7010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16388889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -488,7 +510,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="22" />
+      <option name="time" value="34" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -509,18 +531,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Drunkard.rb">
+    <entry file="file://$PROJECT_DIR$/drunkard_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drunkard_spec.rb">
+    <entry file="file://$PROJECT_DIR$/Drunkard.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
           <folding />
         </state>
       </provider>

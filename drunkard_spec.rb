@@ -24,4 +24,14 @@ describe Drunkard do
 
     expect(d.position_x).to eq -1
   end
+
+  it 'can move a number of spaces based on a direction string' do
+    d = Drunkard.new
+
+    d.move_and_turn('LLFFLF')
+
+    expect(d.position_x).to eq 1
+    expect(d.position_y).to eq -2
+
+  end
 end
