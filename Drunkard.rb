@@ -7,9 +7,14 @@ class Drunkard
     @position_y = 0
     @current_direction = 'north'
   end
+
   def move_and_turn(directions_string)
     x = directions_string.upcase
+
     @directions_array = x.chars #[R, F, L, L, F]
+
+    # if @directions_array.all? == 'R' || 'L' || 'F'
+      # ^ need a cleaner way of checking this ...
 
     @directions_array.each do |letter|
           if letter == 'F'
@@ -17,8 +22,11 @@ class Drunkard
           else
             turn_left_or_right(letter)
           end
-        end
-  end
+    end
+      # puts "you must enter only R's and L's and F's"
+    # end
+
+    end
 
   def move_forward
     if @current_direction == 'north'

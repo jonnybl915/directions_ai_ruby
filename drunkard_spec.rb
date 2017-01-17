@@ -34,4 +34,5 @@ describe Drunkard do
     expect(d.position_y).to eq -2
 
   end
+
 end
