@@ -19,7 +19,7 @@ class Drunkard
           end
         end
   end
-  
+
   def move_forward
     if @current_direction == 'north'
       @position_y += 1
