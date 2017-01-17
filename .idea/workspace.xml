@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc2010b-3802-43cd-bb12-2eb5ba149242" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Drunkard.rb" afterPath="$PROJECT_DIR$/Drunkard.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drunkard_spec.rb" afterPath="$PROJECT_DIR$/drunkard_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.rb" afterPath="$PROJECT_DIR$/run.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,20 +18,20 @@
     <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard_can_accept_multiple_turns_and_moves_at_a_time__DirectionalAI.coverage" NAME="Drunkard can accept multiple turns and moves at a time: DirectionalAI Coverage Results" MODIFIED="1484683857179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
     <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard__DirectionalAI.coverage" NAME="Drunkard: DirectionalAI Coverage Results" MODIFIED="1484687553040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
     <SUITE FILE_PATH="coverage/DirectionalAI@Drunkard_can_move_forward_one_space__change_direction__right___and_move_forward_one_more_space__DirectionalAI.coverage" NAME="Drunkard can move forward one space, change direction (right), and move forward one more space: DirectionalAI Coverage Results" MODIFIED="1484688268537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
-    <SUITE FILE_PATH="coverage/DirectionalAI@run.coverage" NAME="run Coverage Results" MODIFIED="1484688341243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
+    <SUITE FILE_PATH="coverage/DirectionalAI@run.coverage" NAME="run Coverage Results" MODIFIED="1484690277490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DirectionalAI" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.56104255">
+    <splitter split-orientation="horizontal" split-proportion="0.4053156">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Drunkard.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Drunkard.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
+                <state relative-caret-position="326">
                   <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
                   <folding />
                 </state>
@@ -58,8 +55,8 @@
           <file leaf-file-name="run.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/run.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+                <state relative-caret-position="165">
+                  <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -453,7 +450,7 @@
       <updated>1484670128206</updated>
       <workItem from="1484670129354" duration="83000" />
       <workItem from="1484679478261" duration="910000" />
-      <workItem from="1484680524888" duration="7753000" />
+      <workItem from="1484680524888" duration="9603000" />
     </task>
     <servers />
   </component>
@@ -490,11 +487,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8746000" />
+    <option name="totallyTimeSpent" value="10596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16388889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -524,7 +521,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="38" />
+      <option name="time" value="65" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -547,7 +544,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Drunkard.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="326">
           <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
           <folding />
         </state>
@@ -563,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>
